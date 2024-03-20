@@ -1,9 +1,25 @@
 # profile
 Este es un repositorio para setear el perfil de github.
 
-# 💫 About Me:
-Hi! I'm a Researcher in Psychology. I'm doing a Specialization in Data Science, and trying to enhance my career path every day! :) mpaulabria@gmail.com
+# 💫 Sobre mí:
+Mi nombre es Paula, soy Data Analyst con experiencia en desarrollo de tableros y descubrimiento de insights de alto valor para empresas y emprendimientos. Me apasiona estudiar, mantenerme actualizada, y aplicar mis conocimientos para ayudar a otros.
 
+Actualmente, me encuentro cursando el último año de la Especialización en Ciencia de Datos de la Universidad de Buenos Aires (UBA), y realizando diversos cursos para complementar mi vasta formación universitaria previa. Continuamente busco oportunidades para mantenerme actualizada en el campo de la ciencia y el análisis de datos.
+
+Soy una profesional comprometida con la calidad y la excelencia en todo lo que hago. Disfruto del trabajo en equipo y la comunicación efectiva, creyendo firmemente en la colaboración como clave para el éxito.
+
+Estoy buscando oportunidades para formar parte de un equipo de IT, en una empresa donde pueda crecer profesionalmente, contribuir con todas mis habilidades, y realizar grandiosos proyectos.
+
+Mi stack tecnológico incluye:
+
+R
+Python
+Power BI
+SQL
+
+Además, tengo sólidos conocimientos de estadística.
+
+Contacto: mpaulabria@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulabria) 
