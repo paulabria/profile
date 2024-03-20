@@ -1,6 +1,3 @@
-# profile
-Este es un repositorio para setear el perfil de github.
-
 # 💫 Sobre mí:
 Mi nombre es Paula, soy Data Analyst con experiencia en desarrollo de tableros y descubrimiento de insights de alto valor para empresas y emprendimientos. Me apasiona estudiar, mantenerme actualizada, y aplicar mis conocimientos para ayudar a otros.
 
